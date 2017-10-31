@@ -21,4 +21,5 @@ Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
 	git checkout -b <name> 创建+ 切换分支快捷方式
 	git merge <name> 合并分支
 	git branch -d <name> 删除分支
+测试使用冲突的事情 ....
 	
