@@ -15,3 +15,10 @@ Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
     7. 也可以是所有 git branch <name> 命令添加一个新的分支 ,并且使用 git checkout <name> 命令转向这个分支  
 
 9 . 使用 get merge  <branch name> 合并命令 将 指定的分支, (主分支) 进行合并, 
+10. git branch  查看分支 
+	git branch <name> 创建分支
+	git checkout <name> 切换分支
+	git checkout -b <name> 创建+ 切换分支快捷方式
+	git merge <name> 合并分支
+	git branch -d <name> 删除分支
+	
