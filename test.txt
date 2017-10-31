@@ -1,4 +1,3 @@
 Git is a version control system.
-Git is free software.
-Git is a distributed version control system.
-Git is free software. ???? ʲô�����? �Ҳ�֪��...
+修改的部分?? 是这样的么?
+Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
