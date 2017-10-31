@@ -11,4 +11,6 @@ Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
     4. 使用 git clone git@github:<name> 可以克隆github 上面的项目
     5. 也可以使用 http 的协议进行项目的克隆 :
     	git clone https://github.com/.....
-	
+    6. 可以使用 git checkout -b dev 的形式添加一个分支并转向设定的分支 , 这一条就是用着中方式创建的分支中添加的
+    7. 也可以是所有 git branch <name> 命令添加一个新的分支 ,并且使用 git checkout <name> 命令转向这个分支  
+
