@@ -2,3 +2,7 @@
 Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
 这是我添加的新的内容 
 之后上面还删除了一行 旧的内容
+
+使用git 创建远程仓库 :
+    1. 使用 git remote add <name> git@<server name> :<path> 的方式 , 创建远程仓库
+    2. 使用 git push -u <name> 
