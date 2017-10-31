@@ -22,3 +22,4 @@ Git is free software. ???? 什么鬼啊?? 我不是这样写的啊
 	git merge <name> 合并分支
 	git branch -d <name> 删除分支
 测试git 的冲突性能 这是在master 分支里面写的
+测试使用冲突的事情 ....
